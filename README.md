@@ -18,7 +18,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Final Result](https://github.com/vanbyu22/QR-component-main/blob/464c778594712cbdab21f2d94a1b83a20749b386/Screenshot_15-3-2025_updated.jpeg)
+![Final Result](https://github.com/vanbyu22/Blog-preview-card-FM/blob/b7832af15ce73356b832ca04a659385825ff0414/Screenshot_blog-preview-card_final.jpeg)
 
 ### Links
 
